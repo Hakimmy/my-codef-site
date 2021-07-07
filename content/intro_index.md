@@ -16,6 +16,6 @@ So this blog has always been an idea of mine, but seeing as the opportunity has 
 
 Hi, I'm Hakima, currently 18 years old and still trying to figure out how to do this life thing. I thought having a platform for the lesson I've learnt for other people to read and to gain knowledge from would be a good place to start.  As one thing I've learnt in life, is that sometimes you should just go for it. You never know what might come from it. 
 
-> *Because life is filled with many recipes just dying to be tried*
+> *Because life is filled with many recipes just dying to be tried.*
 
 
