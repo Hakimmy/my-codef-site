@@ -2,6 +2,7 @@
 title: "About"
 date: 2021-07-06T11:35:59+01:00
 draft: false 
+menu: "main"
 ---
 
 ### Welcome to my recipe book on life. A platform filled with life lessons, personal advice and many more. 
